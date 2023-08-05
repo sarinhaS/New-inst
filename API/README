@@ -1,0 +1,5 @@
+DEPENDENCIAS:
+
+
+npm i bcrypt dotenv express jsonwebtoken mongoose nodemon
+
